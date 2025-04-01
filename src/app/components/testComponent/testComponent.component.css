@@ -1,0 +1,25 @@
+.container {
+  max-width: 1440px;
+  margin: 0 auto;
+  padding: 0 40px;
+}
+
+.card {
+  display: flex;
+  flex-direction: column;
+  max-width: 400px;
+}
+
+.image_wrapper {
+  width: 40%;
+}
+
+.image {
+  width: 100%;
+  height: auto;
+}
+
+.title {
+  margin: 0;
+  margin-bottom: 10px;
+}
